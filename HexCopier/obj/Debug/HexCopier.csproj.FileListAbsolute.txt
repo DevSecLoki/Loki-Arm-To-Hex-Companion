@@ -1,0 +1,10 @@
+D:\vs 2019\HexCopier\HexCopier\bin\Debug\HexCopier.exe.config
+D:\vs 2019\HexCopier\HexCopier\bin\Debug\HexCopier.exe
+D:\vs 2019\HexCopier\HexCopier\bin\Debug\HexCopier.pdb
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.csproj.AssemblyReference.cache
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.Form1.resources
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.Properties.Resources.resources
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.csproj.GenerateResource.cache
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.csproj.CoreCompileInputs.cache
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.exe
+D:\vs 2019\HexCopier\HexCopier\obj\Debug\HexCopier.pdb
